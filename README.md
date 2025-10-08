@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning how to code in SQL, Blazor and JavaScript
 - 📫 How to reach me: My discord user is Dangercat_.
 - 🌻I have AuDHD (ADHD and autism)
+- To see more check out my school account: https://github.com/DangerCat01
 
 <!---
 DangerCat69/DangerCat69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
