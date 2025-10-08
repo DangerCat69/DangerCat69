@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @DangerCat
 - 👀 I’m interested in coding stuff
-- 🌱 I’m currently learning how to code and math
-- 📫 How to reach me: My discord user is Dangercat_. (Be warned, I may be slow to reply)
+- 💻 I know how to code in: C++, C#, Python, HTML and CSS
+- 🌱 I’m currently learning how to code in SQL, Blazor and JavaScript
+- 📫 How to reach me: My discord user is Dangercat_.
+- 🌻I have AuDHD (ADHD and autism)
 
 <!---
 DangerCat69/DangerCat69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
