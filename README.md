@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DangerCat
 - 👀 I’m interested in coding stuff
-- 💻 I know how to code in: C++, C#, Python, HTML and CSS
-- 🌱 I’m currently learning how to code in SQL, Blazor and JavaScript
+- 💻 I know how to code in: C++, C#, Python, HTML, JavaScript, CSS, SQL, Blazor.
 - 📫 How to reach me: My discord user is Dangercat_.
 - 🌻I have AuDHD (ADHD and autism)
 - To see more check out my school account: https://github.com/DangerCat01
